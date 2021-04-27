@@ -1,2 +1,3 @@
 # Hello-world
-My first hello world (newbie
+My first hello world (newbie)
+#Newbie
